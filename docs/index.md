@@ -1,12 +1,22 @@
 
-[![PJ](images/undraw_Team_re_0bfe.svg "# TEAM"){: align=left width=10%}](){target=_blank}[![PJ](images/undraw_Mailbox_re_dvds.svg "team@ecmorlaix.fr"){: align=right width=10%}](mailto:team@ecmorlaix.fr){target=_blank}Ce site s'adresse aux secondes 2GT4 du lycée Notre Dame du Mur de MORLAIX pour l'enseignement des Sciences Numériques et Technologie.
+[![PJ](images/undraw_team_re_0bfe.svg "# TEAM"){: align=left width=10%}](){target=_blank}[![PJ](images/undraw_mailbox_re_dvds.svg "team@ecmorlaix.fr"){: align=right width=10%}](mailto:team@ecmorlaix.fr){target=_blank}Ce site s'adresse aux secondes 2GT4 du lycée Notre Dame du Mur de MORLAIX pour l'enseignement des Sciences Numériques et Technologie.
+
+
+
+
+
+
 
 ![image](images/logo_SNT.png){: .center width=40%}
 
 
 
 
+<!-- 
+### Autres liens du groupe :
 
+- [Sharepoint](https://ecmorlaix.sharepoint.com/sites/TEAM-1NSI-20212022/Documents%20partages/Forms/AllItems.aspx?CT=1633088990185&RootFolder=%2Fsites%2FTEAM%2D1NSI%2D20212022%2FDocuments%20partages%2FGeneral&FolderCTID=0x012000019689D1FEC0FB4E86F4D05CA2B5A0EC){target=_blank}
+- [Conversation](https://outlook.office365.com/mail/group/ecmorlaix.fr/team-tnsi-20222023/email){target=_blank} -->
 
 
 
@@ -71,6 +81,8 @@
 
 ??? tip "Progression envisagée :"
 
+    ![](./images/progression_snt.png){.center}
+
     - Le thème de l'informatique embarquée et des objets connectés (IOT : internet of things) étant également abordé au cours de l'année par certains en enseignement de Sciences de l'Ingénieur, ils nous en présenteront une synthèse à la fin.
 
     - L'initiation à la programmation en Python et Internet seront traités transversalement aux autres thèmes au fil de l'eau.
@@ -93,20 +105,16 @@
 
 
 
-<!-- 
-### Autres liens du groupe :
 
-- [Sharepoint](https://ecmorlaix.sharepoint.com/sites/TEAM-1NSI-20212022/Documents%20partages/Forms/AllItems.aspx?CT=1633088990185&RootFolder=%2Fsites%2FTEAM%2D1NSI%2D20212022%2FDocuments%20partages%2FGeneral&FolderCTID=0x012000019689D1FEC0FB4E86F4D05CA2B5A0EC){target=_blank}
-- [Conversation](https://outlook.office365.com/mail/group/ecmorlaix.fr/team-tnsi-20222023/email){target=_blank} -->
 
 ***
 
-![board](./images/undraw_Scrum_board_re_wk7v.svg){: .center width=50%}
+![board](./images/undraw_scrum_board_re_wk7v.svg){: .center width=50%}
 
 [mail]: mailto:eric.madec@ecmorlaix.fr "eric.madec@ecmorlaix.fr"
 
 ***
-## Le 06/09
+### Le 06/09
 
 === "Activités en classe"
 
@@ -119,7 +127,7 @@
     </figure>
 
     > [La playlist comprenant 5 vidéos](https://www.youtube.com/playlist?list=PLWvGMqXvyJAMj8f57Hnk3U7oZP8Gi7OyR)
-
+<!-- 
 === "A faire à la maison"
 
-    - **Revoir** la [vidéo](https://www.youtube.com/playlist?list=PLWvGMqXvyJAMj8f57Hnk3U7oZP8Gi7OyR){:target="_blank"} et **lire** le [livret d'accompagnement](./pdf/livret-histoire_informatique_INRIA.pdf){:target="_blank"}
+    - **Revoir** la [vidéo](https://www.youtube.com/playlist?list=PLWvGMqXvyJAMj8f57Hnk3U7oZP8Gi7OyR){:target="_blank"} et **lire** le [livret d'accompagnement](./pdf/livret-histoire_informatique_INRIA.pdf){:target="_blank"} -->
