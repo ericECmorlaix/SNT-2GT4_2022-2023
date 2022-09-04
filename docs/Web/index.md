@@ -1,6 +1,6 @@
 # Thème 1 : Le Web
 
-![building_websites](images/undraw_building_websites_i78t.svg){: .center width=50%}
+![building_websites](../images/undraw_building_websites_i78t.svg){ .center width=50%}
 
 
 <figure markdown>
