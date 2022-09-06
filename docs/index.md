@@ -116,7 +116,7 @@
 ***
 ### Le 06/09
 
-=== "Activités en classe"
+=== "CONTENU DE SÉANCE"
 
     - Accueil -> ==**remplir** une fiche d'informations== ;
     - [Présentation de la matière](#programme) ;
@@ -127,7 +127,7 @@
     </figure>
 
     > [La playlist comprenant 5 vidéos](https://www.youtube.com/playlist?list=PLWvGMqXvyJAMj8f57Hnk3U7oZP8Gi7OyR)
-<!-- 
-=== "A faire à la maison"
 
-    - **Revoir** la [vidéo](https://www.youtube.com/playlist?list=PLWvGMqXvyJAMj8f57Hnk3U7oZP8Gi7OyR){:target="_blank"} et **lire** le [livret d'accompagnement](./pdf/livret-histoire_informatique_INRIA.pdf){:target="_blank"} -->
+=== "TRAVAIL À FAIRE"
+
+    - **Revoir** la [vidéo](https://www.youtube.com/playlist?list=PLWvGMqXvyJAMj8f57Hnk3U7oZP8Gi7OyR){:target="_blank"} et **lire** le [livret d'accompagnement](./pdf/livret-histoire_informatique_INRIA.pdf){:target="_blank"}
