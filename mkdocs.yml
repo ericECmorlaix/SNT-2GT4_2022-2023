@@ -20,8 +20,8 @@ nav:
   - Accueil : index.md
   - Web : ./Web/index.md
   - ENT :
-    - Compétences utiles en SNT : competences_SNT.md 
-    - Les NotebookJupyter : notebook.md
+    - Check-list de compétences utiles en SNT : competences_SNT.md 
+    - Les Notebook Jupyter : notebook.md
   
     # - Langages et Programmation :
     #     - Juges en lignes : juges_en_ligne.md
