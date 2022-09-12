@@ -3,16 +3,9 @@
 ![building_websites](../images/undraw_building_websites_i78t.svg){ .center width=50%}
 
 
-<figure markdown>
-  <figcaption markdown>
-   _**SUITE EN CONSTRUCTION...**_
-  </figcaption>
-  ![under_construction](../images/undraw_under_construction_-46-pa.svg){ width="50%" .center }    
-</figure>
 
 
-<!-- 
-## Vidéos
+## Introduction au web
 
 1. En équipe, regarder chacun une des vidéos suivantes et relever les mots clefs et acronymes associés au thème du web.
 
@@ -28,7 +21,16 @@
 
 3. Comparer vos rélevés avec ceux des autres équipes et compléter votre liste.
 
-## Introduction aux langages du Web : HTML/CSS
+
+<figure markdown>
+  <figcaption markdown>
+   _**SUITE EN CONSTRUCTION...**_
+  </figcaption>
+  ![under_construction](../images/undraw_under_construction_-46-pa.svg){ width="50%" .center }    
+</figure>
+
+
+<!-- ## Initiation aux langages du Web : HTML/CSS
 
 Suivre les leçons de la Khan Academy : [KhanAcademy, introduction à HTML/CSS](https://fr.khanacademy.org/computing/computer-programming/html-css){target=_blank} et en parallèle copier/coller vos codes dans des cellules MarkDown d'un Notebook Jupyter avec l'application Carnets afin d'y conserver une trace de votre travail...
 
@@ -258,5 +260,5 @@ A l'issue de toutes ces présentations portant sur le thème du Web, vous devrie
 === "Réponse :"
     [HyperText Markup Language]()
 
- -->
 
+ -->
