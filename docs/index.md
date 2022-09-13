@@ -105,10 +105,10 @@
                 Citer les 4 piliers principaux de l'informatique ?
 
             === "Réponse"
-                - ...
-                - ...
-                - ...
-                - ...
+                - Algorithme
+                - Programme
+                - Donnée
+                - Machine
         
         !!! question ""
             === "Question 2"
@@ -116,10 +116,10 @@
                 Nommer au moins 4 pionniers de l'informatique ?
 
             === "Réponse"
-                - ...
-                - ...
-                - ...
-                - ...
+                - Abou Jafar Al khawarizmi 
+                - Ada Lovelace
+                - Alan Turing
+                - Grace Hopper
    
     - Prise en main de la tablettes -> ==Vérification des premières [compétences utiles en SNT](./competences_SNT)==
 
