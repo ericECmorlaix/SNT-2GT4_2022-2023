@@ -135,7 +135,7 @@
                 - Alan Turing
                 - Grace Hopper
    
-    - Prise en main de la tablettes -> ==Vérification des premières [compétences utiles en SNT](./competences_SNT)==
+    - Prise en main de la tablette -> ==Vérification des premières [compétences utiles en SNT](./competences_SNT)==
 
     - [Introduction au Web](./Web/#introduction-au-web) -> ==Faire une prise de notes avec l'iPad, la partager pour collaborer et la transmettre par [mail]==
     
