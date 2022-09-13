@@ -94,6 +94,20 @@
 
 ***
 
+### Le 20/09
+
+=== "CONTENU DE SÉANCE"
+       
+    - [Introduction au Web](./Web/#introduction-au-web) -> ==Synthèse des prises de notes avec l'iPad, vérification de [compétences](./competences_SNT) quant à l'envoi de [mail]==
+
+    - Rejoindre la classe sur <https://fr.khanacademy.org/join/SZ58TC6N>{:target="_blank"} et commencer les activités de <https://fr.khanacademy.org/computing/computer-programming/html-css>{:target="_blank"}...
+
+
+=== "TRAVAIL À FAIRE"
+
+    - Poursuivre votre [initiation aux langages HTML/CSS pour faire une page web](https://fr.khanacademy.org/computing/computer-programming/html-css){:target="_blank"}
+
+
 ### Le 13/09
 
 === "CONTENU DE SÉANCE"
@@ -123,15 +137,11 @@
    
     - Prise en main de la tablettes -> ==Vérification des premières [compétences utiles en SNT](./competences_SNT)==
 
-    - [Introduction au Web](./Web/#introduction-au-web) -> ==Faire une prise de notes avec l'iPad, la partager pour collaborer et la transmettre finalement par [mail]==
-
-    - Rejoindre la classe sur <https://fr.khanacademy.org/join/SZ58TC6N>{:target="_blank"} et commencer les activités de <https://fr.khanacademy.org/computing/computer-programming/html-css>{:target="_blank"}...
-
-
+    - [Introduction au Web](./Web/#introduction-au-web) -> ==Faire une prise de notes avec l'iPad, la partager pour collaborer et la transmettre par [mail]==
+    
 === "TRAVAIL À FAIRE"
 
-    - Poursuivre votre [initiation aux langages HTML/CSS pour faire une page web](https://fr.khanacademy.org/computing/computer-programming/html-css)>{:target="_blank"}
-
+    - **Revoir** des vidéos d'[Introduction au Web](./Web/#introduction-au-web), finir votre prise de notes avec l'iPad, et la transmettre finalement par [mail].
 
 ***
 
