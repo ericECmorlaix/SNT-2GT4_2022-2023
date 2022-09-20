@@ -97,6 +97,8 @@
 ### Le 20/09
 
 === "CONTENU DE SÉANCE"
+
+    - ["85 % des emplois de 2030 n’existent pas encore. En revanche on sait que l’essentiel de ces emplois concerneront le digital"](http://si.lycee.ecmorlaix.fr/nsi){target=_blank}
        
     - [Introduction au Web](./Web/#introduction-au-web) -> ==Synthèse des prises de notes avec l'iPad, vérification de [compétences](./competences_SNT) quant à l'envoi de [mail]==
 
