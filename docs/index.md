@@ -93,7 +93,22 @@
 [mail]: mailto:eric.madec@ecmorlaix.fr "eric.madec@ecmorlaix.fr"
 
 ***
+### Le 27/09
 
+=== "CONTENU DE SÉANCE"
+    
+    - Présentation des [Notebook Jupyter](./notebook) et de l'application [Carnets](https://holzschu.github.io/Carnets_Jupyter/) => ==**créer** un nouveau bloc note pour conserver progressivement une trace de vos apprentissages HTML/CSS sur votre iPad.==       
+   
+    - Poursuivre votre [initiation aux langages HTML/CSS pour faire une page web](https://fr.khanacademy.org/computing/computer-programming/html-css){:target="_blank"} :
+        - Pour le **_Défi : votre liste d'apprentissage_** => ==**lister** les noms propres, dates clefs, mots et acronymes liés à l'informatique que vous aviez relevé lors de visionnage de la [vidéo](https://www.youtube.com/playlist?list=PLWvGMqXvyJAMj8f57Hnk3U7oZP8Gi7OyR){:target="_blank"} et/ou de celles d'[Introduction au web](./Web/#introduction-au-web).==
+
+        - Pour le **_Projet : site de voyage_**  => ==**choisir** un des sujets lié au web==
+
+
+=== "TRAVAIL À FAIRE"
+
+    - Poursuivre votre [initiation aux langages HTML/CSS pour faire une page web](https://fr.khanacademy.org/computing/computer-programming/html-css){:target="_blank"}
+***
 ### Le 20/09
 
 === "CONTENU DE SÉANCE"
