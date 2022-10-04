@@ -1,6 +1,6 @@
 ## Mes sites de SNT sur GitHub
 
-Cette partie présente une démarche qui vous permettra de développer vos sites web avec l'éditeur Visual Studio Code en ligne de GitPod et de les héberger dans GitHub pour les publier hors de la KhanAcademy...
+Cette partie présente une démarche qui vous permettra de développer vos sites web avec l'éditeur Visual Studio Code de GitPod en ligne et de les héberger dans GitHub pour les publier hors de la KhanAcademy...
 
 ### Créer un dépot GitHub
 Créer un compte sur GitHub (Sign up) depuis un navigateur à l'adresse [https://github.com/](https://github.com/){target="_blank"} :
@@ -37,47 +37,55 @@ Pour faire fonctionner l'[IDE](https://fr.wikipedia.org/wiki/Environnement_de_d%
 - **Choisir** VS Code BROWSER ;
 - **Cliquer** sur `New Workspace` ;
 - **Rechercher** puis **choisir** votre dépot dans la liste ou **copier/coller** son URL ;
-- **Accorder** les autorisations de GitHub à GitPod...  
 
-Tous les dossiers et fichiers de votre dépot sont alors éditables dans l'environnement de développement Visual Studio Code intégré à GitPod en ligne.
+> Tous les dossiers et fichiers de votre dépot sont alors éditables dans l'environnement de développement Visual Studio Code intégré à GitPod en ligne.
 
 <figure>
     <img src="https://ericecmorlaix.github.io/img/GitPod01.png" alt="GitPod VSC Explorer">
 </figure>
 
+- **Accorder** toutes les autorisations de GitHub à GitPod en cliquant sur le logo de GitHub dans la barre de gauche...
+
 #### Développement d'une page dans VSC
 
-- Dans la zone de l'explorateur, **créer** un nouveau fichier nommé `index.html` ;
-- Dans la zone d'édition du fichier, **saisir** un `!` et **valider** la proposition _"Emmet Abbreviation"_ faite par VSC :
-
-<!-- ```html
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-</head>
-<body>
-    
-</body>
-</html>
-``` -->
+- Dans la zone de l'explorateur (_bleu_), **créer** un nouveau fichier (_jaune_) nommé `index.html` ;
+- Dans la zone d'édition du fichier, **saisir** un `!` et **valider** la proposition _"Emmet Abbreviation"_ de VSC :
+<code><pre>
+&lt;!DOCTYPE html&gt;
+&lt;html lang="en"&gt;
+&lt;head&gt;
+    &lt;meta charset="UTF-8"&gt;
+    &lt;meta http-equiv="X-UA-Compatible" content="IE=edge"&gt;
+    &lt;meta name="viewport" content="width=device-width, initial-scale=1.0"&gt;
+    &lt;title&gt;Document&lt;/title&gt;
+&lt;/head&gt;
+&lt;body&gt;        
+&lt;/body&gt;
+&lt;/html&gt;
+</code></pre>
 
 - Dans le code ainsi obtenu, **remplacer** `"en"` par `"fr"` et **donner** un titre à la page d'accueil de votre futur site ;
 - **Compléter** le `body` avec les balises de contenu que vous souhaitez voir s'afficher sur cette page ;
-- Dans un terminal, **saisir** `python -m http.server`, puis **cliquer** sur le bouton `Open Browser` pour afficher votre page dans un nouvel onglet de votre navigateur ;
+- Dans un terminal, **saisir** `python -m http.server`, puis **cliquer** sur le bouton `Open Browser` (ou sur port pour afficher votre page dans un nouvel onglet de votre navigateur ;
 - **Compléter** le code HTML de votre page et **vérifier** le résultat obtenu en rafraichissant régulièrement l'affichage de cet onglet du navigateur ;
 
-#### Publier votre site sur GitHub
+### Publier votre site sur GitHub
 
 - Dans la zone GitHub, **vérifier** les autorisations accordés à GitPod par GitHub ;
-- Dans la zone Source Control, **cliquer** sur le `+` pour ajouter les fichiers modifiés à mettre en attente (indexer) à ce stade du développement, **ajouter** un message avant de **commiter**, puis **synchroniser** vos modifications ;
-- **Paramétrer** GitHub pour qu'il affiche votre site Web...
+- Dans la zone Source Control (_vert_), **cliquer** sur le `+` (_orange_) pour ajouter les fichiers modifiés à mettre en attente (à indexer) à ce stade du développement, **ajouter** un message (_rose_) avant de **commiter** (_violet_), puis **synchroniser** vos modifications ;
+
+<figure>
+    <img src="https://ericecmorlaix.github.io/img/GitPod02.png" alt="GitPod VSC Explorer">
+</figure>
+
+- **Paramétrer** GitHub pour qu'il affiche votre site Web : dans `Settings`, choisir `Pages` puis sélectionner la branche `main` et cliquer sur le bouton `Save` :
+
+![Settings>Pages>main>Save](./images/GitHub02.png){.center width=80%}
+
+- Enfin, après quelques minutes, dans un navigateur, rendez vous à une adresse telle que <https://username.github.io/nom-de-votre-site/>...
 
 
-#### ==La routine pour maintenir votre site Git avec un éditeur VSC en ligne se résume à :==
+### ==La routine pour maintenir votre site Git avec un éditeur VSC en ligne se résume à :==
 
 ??? summary "I - Modifier vos fichiers sur la machine virtuelle GitPod :"
     Depuis l'Explorateur (`Explorer` ++"Ctrl"+"Maj"+"E"++) de VSC (_bleu_) :
@@ -88,9 +96,7 @@ Tous les dossiers et fichiers de votre dépot sont alors éditables dans l'envir
     - cliquer sur un fichier pour l'ouvrir dans l'éditeur afin de le modifier ;
     - cliquer droit sur un fichier `.md` et choisir `Open preview` pour le prévisualiser ;
 
-<figure>
-    <img src="https://ericecmorlaix.github.io/img/GitPod02.png" alt="GitPod VSC Explorer">
-</figure>
+
 
 
 ??? summary "II - Indexer vos changements :"
@@ -108,7 +114,7 @@ Tous les dossiers et fichiers de votre dépot sont alors éditables dans l'envir
     et choisir `Push` ;
 
     
-??? example "Exemple à faire vous même :"
+<!-- ??? example "Exemple à faire vous même :"
 
     - **cliquer** sur l'icone `New Folder` (_jaune_) pour créer un nouveau dossier nommé `images` ;
     - **déplacer** votre fichier image dans le dossier `images` ;
@@ -118,7 +124,7 @@ Tous les dossiers et fichiers de votre dépot sont alors éditables dans l'envir
     - **modifier** le chemin relatif vers l'image dans l'instruction MarkDown `![image de ...?](images/nom_du_fichier_image.png)` ; 
     - **prévisualiser** pour vérifier le bon affichage de l'image ;
     - **indexer**, **Commiter** puis **Pousser** vos modifications ;
-    - **vérifier** la mis à jour de votre dépôt ;
+    - **vérifier** la mis à jour de votre dépôt ; -->
 
 <figure>
     <img src="https://www.gitpod.io/images/illustration-large.png" alt="Glisser/Déposer">
