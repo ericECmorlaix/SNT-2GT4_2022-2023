@@ -75,7 +75,7 @@ Pour faire fonctionner l'[IDE](https://fr.wikipedia.org/wiki/Environnement_de_d%
 - Dans la zone Source Control (_vert_), **cliquer** sur le `+` (_orange_) pour ajouter les fichiers modifiés à mettre en attente (à indexer) à ce stade du développement, **ajouter** un message (_rose_) avant de **commiter** (_violet_), puis **synchroniser** vos modifications ;
 
 <figure>
-    <img src="https://ericecmorlaix.github.io/img/GitPod02.png" alt="GitPod VSC Explorer">
+    <img src="https://ericecmorlaix.github.io/img/GitPod02.png" alt="GitPod VSC Source">
 </figure>
 
 - **Paramétrer** GitHub pour qu'il affiche votre site Web : dans `Settings`, choisir `Pages` puis sélectionner la branche `main` et cliquer sur le bouton `Save` :
@@ -88,24 +88,22 @@ Pour faire fonctionner l'[IDE](https://fr.wikipedia.org/wiki/Environnement_de_d%
 ### ==La routine pour maintenir votre site Git avec un éditeur VSC en ligne se résume à :==
 
 ??? summary "I - Modifier vos fichiers sur la machine virtuelle GitPod :"
-    Depuis l'Explorateur (`Explorer` ++"Ctrl"+"Maj"+"E"++) de VSC (_bleu_) :
+    ![GitPod VSC Explorer](https://ericecmorlaix.github.io/img/GitPod01.png){align=right width= 20%} Depuis l'Explorateur (`Explorer` ++"Ctrl"+"Maj"+"E"++) de VSC (_bleu_) :
 
     - cliquer sur un dossier pour afficher la liste de son contenu ;
     - cliquer sur les icônes (_jaunes_) pour créer un nouveau fichier et/ou un nouveau dossier ;
-    - maintenir le clic sur un fichier (ou un dossier) pour le déplacer dans l'arborescence ;
+    - maintenir le clic (= clic droit) sur un fichier (ou un dossier) pour renommer son chemin et ainsi le déplacer dans l'arborescence ;
     - cliquer sur un fichier pour l'ouvrir dans l'éditeur afin de le modifier ;
-    - cliquer droit sur un fichier `.md` et choisir `Open preview` pour le prévisualiser ;
-
-
-
+    - maintenir le clic (= clic droit) sur un fichier `.md` et choisir `Open preview` pour le prévisualiser ;
+    - démarrer un serveur `python -m http.server` depuis un terminal pour visualiser un fichier `.html`
 
 ??? summary "II - Indexer vos changements :"
-    Depuis le "Contrôle de code source" (_vert_) (`Source Control` ++"Ctrl"+"Maj"+"G"++),
+    ![GitPod VSC Source](https://ericecmorlaix.github.io/img/GitPod02.png){align=right width= 20%}Depuis le "Contrôle de code source" (_vert_) (`Source Control` ++"Ctrl"+"Maj"+"G"++),
      dans "Changements" (`Changes`) cliquer sur le `+` (_orange_) pour ajouter les fichiers modifiés
       à mettre en attente (indexer) dans cette phase (stage) de développement ;
 
 ??? summary "III - Committer, valider vos modifications :"
-    Ajouter un message sous "CONTRÔLE DE CODE SOURCE" (`SOURCE CONTROL`) (_rose_)
+    ![GitPod VSC Source](https://ericecmorlaix.github.io/img/GitPod02.png){align=right width= 20%}Ajouter un message sous "CONTRÔLE DE CODE SOURCE" (`SOURCE CONTROL`) (_rose_)
      pour définir ces modifications à ce stade de votre développement,
       puis cliquer sur `✓` (_violet_) pour valider ce commit ;
 
