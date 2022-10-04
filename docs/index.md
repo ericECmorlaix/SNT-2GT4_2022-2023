@@ -93,6 +93,18 @@
 [mail]: mailto:eric.madec@ecmorlaix.fr "eric.madec@ecmorlaix.fr"
 
 ***
+### Le 04/10
+
+=== "CONTENU DE SÉANCE"
+    
+    - Publier un site web depuis [GitHub](./github)
+   
+    - Poursuivre votre [initiation aux langages HTML/CSS pour faire une page web](https://fr.khanacademy.org/computing/computer-programming/html-css){:target="_blank"} ;
+        
+=== "TRAVAIL À FAIRE"
+
+    - Poursuivre votre [initiation aux langages HTML/CSS pour faire une page web](https://fr.khanacademy.org/computing/computer-programming/html-css){:target="_blank"}
+***
 ### Le 27/09
 
 === "CONTENU DE SÉANCE"
