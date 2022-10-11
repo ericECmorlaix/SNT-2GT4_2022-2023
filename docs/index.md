@@ -91,7 +91,21 @@
 ![board](./images/undraw_scrum_board_re_wk7v.svg){: .center width=50%}
 
 [mail]: mailto:eric.madec@ecmorlaix.fr "eric.madec@ecmorlaix.fr"
+***
+### Le 11/10
 
+=== "CONTENU DE SÉANCE"
+    
+    - **Partager** par [mail] l'URL de votre site web publier depuis [GitHub](./github) ;
+
+    - En binôme, choisir un des [sujets à aborder en projet Web](./Web/#sujets-a-aborder-en-projet-web){:target="_blank"} et développer deux sites contenant chacun le même contenu mais présenté dans des styles différents ;
+   
+    - **Poursuivre** votre [initiation aux langages HTML/CSS pour faire une page web](https://fr.khanacademy.org/computing/computer-programming/html-css){:target="_blank"} ;
+        
+=== "TRAVAIL À FAIRE"
+
+    - **Poursuivre** votre [initiation aux langages HTML/CSS pour faire une page web](https://fr.khanacademy.org/computing/computer-programming/html-css){:target="_blank"} ;
+    - **Développer** votre projet Web ;
 ***
 ### Le 04/10
 
