@@ -45,7 +45,7 @@ Suivre les leçons de la Khan Academy : [KhanAcademy, introduction à HTML/CSS](
 
 Par équipe vous allez publier une page web contenant au moins un titre et deux sous-titres, trois paragraphes, une images, une liste et un lien hypertexte afin de présenter l'un des sujets suivants en répondant à minima aux questions associées :
 
-- HTML
+- HTML (Markdown, LaTeX, ...) [Margaux, Emma, Salomé]
 
   <!-- - Donner la signification de HTML ?
   - Quel est l'histoire de ce langage ?
@@ -55,7 +55,7 @@ Par équipe vous allez publier une page web contenant au moins un titre et deux 
   - Lister les principales balises, à quoi servent-elles ?
   - Aujourd'hui, l'usage de quelle version de HTML est recommandée par le W3C ? -->
 
-- CSS
+- CSS [Laly, Enora]
 
   <!-- - Donner la signification de CSS ?
   - Quel est l'histoire de ce langage ?
@@ -66,9 +66,7 @@ Par équipe vous allez publier une page web contenant au moins un titre et deux 
   - Aujourd'hui, l'usage de quelle version de CSS est recommandée par le W3C ?
   - ... -->
 
-- MarkDown
-
-- URL (DNS)
+- URL (DNS) [Manon, Lucas]
 
 <!-- L'URL ( Uniform Ressource Locator ) indique « l'endroit » où se trouve une ressource sur un ordinateur.<br>
 
@@ -86,7 +84,7 @@ ou schématiser :
 
 ![URL](./Images/web-url.jpeg)<br> -->
 
-- Moteurs de recherche (Référencement, PageRank)
+- TCP/IP (Protocole de transmissions) + Cookies + Moteurs de recherche (Référencement, PageRank) [Aksel, Martin, Mathys E, Nathan]
 
 <!-- Le PageRank est l'algorithme d'analyse des liens concourant au système de classement des pages Web utilisé par le moteur de recherche Google. Il mesure quantitativement la popularité d'une page web. Le PageRank n'est qu'un indicateur parmi d'autres dans l'algorithme qui permet de classer les pages du Web dans les résultats de recherche de Google. Ce système a été inventé par Larry Page, cofondateur de Google. Ce mot est une marque déposée.<br>
 
@@ -108,13 +106,13 @@ Plus formellement, le déplacement de l'utilisateur est une marche aléatoire su
 2. "Plus une page a de liens qui viennent vers elle, plus le PageRank est élevé". En comaparant A, G et H, cette affirmation est-elle correcte. Même question pour A et D. Expliquer cela.  
 3. Vous êtes l'auteur de la page H et vous souhaitez augmenter votre PageRank. Par quels moyens artificiels pouvez-vous augmenter ce score ? (vous aurez le droit d'ajouter des liens ou de créer de nouvelles pages). -->
 
-- Cookies 
+
 
 <!-- Une petite vidéo :
 
 <div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;"> <iframe style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden" frameborder="0" type="text/html" src="https://www.dailymotion.com/embed/video/x16lt53" width="100%" height="100%" allowfullscreen > </iframe> </div> -->
 
-- Clients / Serveurs 
+- Clients / Serveurs + IP/MAC (Réseaux et Routage) [Kathleen, Perrine, Louise, Ambre]
 
 <!-- Deux ordinateurs en réseau peuvent s'échanger des données. Dans la plupart des cas ces échanges ne sont pas "symétriques" : en effet un ordinateur A va souvent se contenter de demander des ressources (fichiers contenant du texte, photos, vidéos, sons...) à un ordinateur B. L'ordinateur B va lui se contenter de fournir des ressources à tous les ordinateurs qui lui en feront la demande. On dira alors que l'ordinateur A (celui qui demande des ressources) est un client alors que l'ordinateur B (celui qui fournit les ressources) sera qualifié de serveur. <br>
 
@@ -128,27 +126,27 @@ Afin assurer une continuité de service, dans les sociétés, plusieurs serveurs
 ![Serveurs](./Images/baie-serveur.jpg)<br> -->
 
 
-- Web Statique
+- Web Statique (JavaScript, PyScript) [Mathys H, Gabriel]
 
 <!-- 1. Donner un exemple de page web statique
 2. Quelle est l'utilité d'un web statique par rapport au dynamique ?
 3. Quel langages permettent de rendre une page web statique interactive ? -->
 
 
-- Web dynamique
+- Web dynamique [Laïs, Océane]
 
 <!-- 1. Donne un exemple de page web dynamique
 3. Quelle est l'utilité d'un web dynamique par rapport au statique ?
 4. Quel langages permettent de rendre la page web dynamique ?  -->
 
-- RGPD
+- RGPD [Louis, Quentin]
 
 <!-- 1. Quelle est la signification du sigle RGPD ?
 2. Lister quelques exemples d'utilisation.
 3. Quelles sont les conséquences sur internet ? -->
 
 
-- HTTP (HTTPS)
+- HTTP (HTTPS) [Keeyann, Alexandre]
 
 <!-- Revenons sur l'adresse qui s'affiche dans la barre d'adresse d'un navigateur web et plus précisément sur le début de cette adresse c'est-à-dire le "http"
 Selon les cas cette adresse commencera par http ou https (nous verrons ce deuxième cas à la fin de cette activité).
@@ -229,12 +227,6 @@ Voici le code affiché dans une console lors d' une requête HTTP :
 2. Quel est le type de fichier attendu ? 
 3. Quel est le système d'exploitation de l'ordinateur personnel qui émet la requête?
 4. Quel est le nom du navigateur utilisé et sa version?  -->
-
-
-
-- TCP/IP (Protocole de transmissions)
-
-- IP/MAC (Réseaux et Routage)
 
 
 <!-- ### Le LaTeX
