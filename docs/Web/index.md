@@ -146,7 +146,7 @@ Afin assurer une continuité de service, dans les sociétés, plusieurs serveurs
 3. Quelles sont les conséquences sur internet ? -->
 
 
-- HTTP (HTTPS) [Keeyann, Alexandre]
+- HTTP (HTTPS) [Keeyann, Alexandre, Baptiste]
 
 <!-- Revenons sur l'adresse qui s'affiche dans la barre d'adresse d'un navigateur web et plus précisément sur le début de cette adresse c'est-à-dire le "http"
 Selon les cas cette adresse commencera par http ou https (nous verrons ce deuxième cas à la fin de cette activité).

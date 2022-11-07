@@ -93,6 +93,24 @@
 [mail]: mailto:eric.madec@ecmorlaix.fr "eric.madec@ecmorlaix.fr"
 
 ***
+### Le 08/11
+
+=== "CONTENU DE SÉANCE"
+    
+    - **Partager** par [mail] l'URL de votre site web publier depuis [GitHub](./github) -> ==**Résoudre** toutes les difficultés techniques restantes...== ;
+
+    - A partir des [sujets à aborder en projet Web](./Web/#sujets-a-aborder-en-projet-web){:target="_blank"}, par équipe, développer chacun un site contenant le même contenu mais présenté dans des styles différents et avec des liens renvoyant vers un des autres sites de l'équipe ;
+    
+    > Entres autres, utiliser la ressource [www.lelivrescolaire.fr](https://www.lelivrescolaire.fr/page/30327051).
+   
+    - **Poursuivre** votre [initiation aux langages HTML/CSS pour faire une page web](https://fr.khanacademy.org/computing/computer-programming/html-css){:target="_blank"} ;
+        
+=== "TRAVAIL À FAIRE"
+
+    - **Poursuivre** votre [initiation aux langages HTML/CSS pour faire une page web](https://fr.khanacademy.org/computing/computer-programming/html-css){:target="_blank"} ;
+    - **Développer** votre projet Web ;
+    
+***
 ### Le 18/10
 
 === "CONTENU DE SÉANCE"
