@@ -22,14 +22,6 @@
 3. Comparer vos rélevés avec ceux des autres équipes et compléter votre liste.
 
 
-<!-- <figure markdown>
-  <figcaption markdown>
-   _**SUITE EN CONSTRUCTION...**_
-  </figcaption>
-  ![under_construction](../images/undraw_under_construction_-46-pa.svg){ width="50%" .center }    
-</figure> -->
-
-
 ## Initiation aux langages du Web : HTML/CSS
 
 Suivre les leçons de la Khan Academy : [KhanAcademy, introduction à HTML/CSS](https://fr.khanacademy.org/computing/computer-programming/html-css){target=_blank} et en parallèle copier/coller vos codes dans des cellules MarkDown d'un Notebook Jupyter avec l'application Carnets afin d'y conserver une trace de votre travail...
@@ -43,11 +35,10 @@ Suivre les leçons de la Khan Academy : [KhanAcademy, introduction à HTML/CSS](
 
 ## Sujets à aborder en projet Web
 
-Par équipe vous allez publier une page web contenant au moins un titre et deux sous-titres, trois paragraphes, une images, une liste et un lien hypertexte afin de présenter l'un des sujets suivants en répondant à minima aux questions associées :
+Par équipe, afin de présenter l'un des sujets suivants en répondant à minima aux questions associées, développer chacun un site contenant le même contenu (au moins une page avec un titre et deux sous-titres, trois paragraphes, une images, une liste et un lien hypertexte) mais présenté dans des styles personnels différents et avec des liens renvoyant vers un des autres sites de l'équipe :
 
 - HTML (Markdown, LaTeX, ...) [[Margaux](https://margplou.github.io/mon_premier_sitee/), [Emma](https://mamaa0.github.io/mon_premier_site/), [Salomé](https://samole21.github.io/MonPremierSite/)]
-
-  <!-- - Donner la signification de HTML ?
+  - Donner la signification de HTML ?
   - Quel est l'histoire de ce langage ?
   - Est-ce un langage de programmation ou de description ?
   - A quoi sert-il ?
@@ -55,11 +46,9 @@ Par équipe vous allez publier une page web contenant au moins un titre et deux 
   - Lister les principales balises, à quoi servent-elles ?
   - Aujourd'hui, l'usage de quelle version de HTML est recommandée par le W3C ?
   - En quoi le HTML permet le web sémantique ?
-  - Que sont respectivement les langages MarkDown et LateX ? -->
+  - Que sont respectivement les langages MarkDown et LateX ?
 
 - CSS [[Laly](https://laly1303.github.io/mon_premier_cours-/), [Enora](https://emalgorn29.github.io/mon_premier_repertoire/)]
-
-<!-- - Donner la signification de CSS ?
   - Donner la signification de CSS ?
   - Quel est l'histoire de ce langage ?
   - Est-ce un langage de programmation ou de description ?
@@ -69,27 +58,23 @@ Par équipe vous allez publier une page web contenant au moins un titre et deux 
   - Aujourd'hui, l'usage de quelle version de CSS est recommandée par le W3C ?
   - Quels sont les trois façons (niveaux, endroits) pour appliquer du CSS à une page HTML ?
 
-  - ... -->
-
 - URL (DNS) [[Manon](https://manongllrm.github.io/mon_permier_site/), [Lucas](https://lucasprigent.github.io/url-info/)]
+  -	Que signifie URL
+  -	Historique ?
+  -	Ça sert à quoi ?
+  -	Quelles en sont les différentes parties ?
+  -	Qu'est qu'une arborescence ?
+  -	Comment chemine-t-on dans une arborescence ?
+  -	Qu'est-ce qu'un chemin absolu ?
+  -	Qu'est-ce qu'un chemin relatif ?
+  -	Comment accéder au fichier index.html d'un site web ?
+  -	Peut-on avoir une IP dans l'URL ?
+  -	Qu'est-ce qu'un DNS, quel lien avec une URL ?
+  -	Quels protocoles trouve-t-on dans une URL ?
+  -	Quelles autres informations peut contenir l'URL ?
+  -	Qu'est-ce qu'un lien hypertexte ?
 
-<!-- L'URL ( Uniform Ressource Locator ) indique « l'endroit » où se trouve une ressource sur un ordinateur.<br>
-
-Dans la barre d'adresse de votre navigateur web vous trouverez, quand vous visitez un site, des choses du genre : "http://www.ac-grenoble.fr/disciplines/informatiquelycee/index.html". 
-
-La partie "http" est le protocole <br>
-La partie "www.ac-grenoble.fr" est l'adresse symbolique (que l'on reverra dans le thème INTERNET) <br>
-La partie "/disciplines/informatiquelycee/index.html" s'appelle une URL, c'est le chemin de la page demandée à partir de la racine du domaine ac-grenoble.fr<br>
-
-Une URL permet d'identifier une ressource (par exemple un fichier) sur un réseau. <br>
-Un fichier peut se trouver dans un dossier qui peut lui-même se trouver dans un autre dossier... On parle d'une structure en arborescence, car elle ressemble à un arbre à l'envers : <br>
-![URL](./Images/web-arborescence.png)<br>
-
-ou schématiser : 
-
-![URL](./Images/web-url.jpeg)<br> -->
-
-- Cookies + Moteurs de recherche (Référencement, PageRank) [[Aksel](https://zeld119.github.io/Snt/), [Martin](https://martlem.github.io/Site-SNT-1/), Mathys E, [Nathan](https://babouchelamouette.github.io/mon_premier_site/)]
+- Cookies + Moteurs de recherche (Référencement, PageRank) [[Aksel](https://zeld119.github.io/Snt/), [Martin](https://martlem.github.io/Site-SNT-1/), [Mathys E](https://margouls.github.io/The-site-of-margouls/), [Nathan](https://babouchelamouette.github.io/mon_premier_site/)]
 
 <!-- Le PageRank est l'algorithme d'analyse des liens concourant au système de classement des pages Web utilisé par le moteur de recherche Google. Il mesure quantitativement la popularité d'une page web. Le PageRank n'est qu'un indicateur parmi d'autres dans l'algorithme qui permet de classer les pages du Web dans les résultats de recherche de Google. Ce système a été inventé par Larry Page, cofondateur de Google. Ce mot est une marque déposée.<br>
 
@@ -131,7 +116,7 @@ Afin assurer une continuité de service, dans les sociétés, plusieurs serveurs
 ![Serveurs](./Images/baie-serveur.jpg)<br> -->
 
 
-- Web Statique (JavaScript, PyScript) [[Mathys H](https://mathiouphm.github.io/mon_classeur/), Gabriel]
+- Web Statique (JavaScript, PyScript) [[Mathys H](https://mathiouphm.github.io/mon_classeur/), [Gabriel](https://fichierapk.github.io/mon_premier_site/)]
 
 <!-- 1. Donner un exemple de page web statique
 2. Quelle est l'utilité d'un web statique par rapport au dynamique ?
@@ -144,14 +129,13 @@ Afin assurer une continuité de service, dans les sociétés, plusieurs serveurs
 3. Quelle est l'utilité d'un web dynamique par rapport au statique ?
 4. Quel langages permettent de rendre la page web dynamique ?  -->
 
-- RGPD [[Louis]https://louisjouanet.github.io/mon_premier_site/, [Quentin](https://jincena.github.io/mon_premier_site/)]
-
+- RGPD [[Louis](https://louisjouanet.github.io/mon_premier_site/), [Quentin](https://jincena.github.io/mon_premier_site/)]
 <!-- 1. Quelle est la signification du sigle RGPD ?
 2. Lister quelques exemples d'utilisation.
 3. Quelles sont les conséquences sur internet ? -->
 
 
-- HTTP (HTTPS), TCP/IP (Protocole de transmissions) [[Keeyann](https://synyungboii.github.io/mon_premier_site/), [Alexandre](https://nbayoungfish.github.io/mon_site/), Baptiste]
+- HTTP (HTTPS), TCP/IP (Protocole de transmissions) [[Keeyann](https://synyungboii.github.io/mon_premier_site/), [Alexandre](https://nbayoungfish.github.io/mon_site/), [Baptiste](https://carrotte1.github.io/Pingouin/)]
 
 <!-- Revenons sur l'adresse qui s'affiche dans la barre d'adresse d'un navigateur web et plus précisément sur le début de cette adresse c'est-à-dire le "http"
 Selon les cas cette adresse commencera par http ou https (nous verrons ce deuxième cas à la fin de cette activité).
@@ -254,3 +238,9 @@ A l'issue de toutes ces présentations portant sur le thème du Web, vous devrie
 
 
 
+<!-- <figure markdown>
+  <figcaption markdown>
+   _**SUITE EN CONSTRUCTION...**_
+  </figcaption>
+  ![under_construction](../images/undraw_under_construction_-46-pa.svg){ width="50%" .center }    
+</figure> -->
