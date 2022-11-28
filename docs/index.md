@@ -93,6 +93,22 @@
 [mail]: mailto:eric.madec@ecmorlaix.fr "eric.madec@ecmorlaix.fr"
 
 ***
+### Le 29/11
+
+=== "CONTENU DE SÉANCE"
+    
+    - Synthèse du thème Web et bilan du trimestre ;
+
+    - Initiation du thème les réseaux sociaux -> ==rédaction collective en MarkDown d'une [liste de réseaux sociaux](https://codimd.apps.education.fr/dgUvKX8xQJG0PYrV2CBp_Q){target="_blank"}== ;
+
+    - Découverte du logiciel [Obsidian](https://ericecmorlaix.github.io/adn-Tutoriel_Obsidian/){target="_blank"} -> ==récupération de la [liste de réseaux sociaux](https://codimd.apps.education.fr/dgUvKX8xQJG0PYrV2CBp_Q){target="_blank"} établie== ;   
+    
+        
+=== "TRAVAIL À FAIRE"
+
+    - Lire le chapitre concernant les réseaux sociaux sur [www.lelivrescolaire.fr](https://www.lelivrescolaire.fr/page/30674519) ;
+    
+***
 ### Le 22/11
 
 === "CONTENU DE SÉANCE"
