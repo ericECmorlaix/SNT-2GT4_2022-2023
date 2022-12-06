@@ -93,6 +93,21 @@
 [mail]: mailto:eric.madec@ecmorlaix.fr "eric.madec@ecmorlaix.fr"
 
 ***
+### Le 06/12
+
+=== "CONTENU DE SÉANCE"
+    
+    - Découverte du logiciel [Obsidian](https://ericecmorlaix.github.io/adn-Tutoriel_Obsidian/){target="_blank"} -> ==récupération dans un coffre d'iCloud du fichier MarkDown de la [liste de réseaux sociaux](https://codimd.apps.education.fr/dgUvKX8xQJG0PYrV2CBp_Q){target="_blank"} mise à jour== ;
+
+    - Poursuite du thème les réseaux sociaux -> ==Faire des recherches concernant le réseau social tiré au sort dans la liste et les résumer dans une note d'Obsidian== ;   
+    
+        
+=== "TRAVAIL À FAIRE"
+
+    - Lire le chapitre concernant les réseaux sociaux sur [www.lelivrescolaire.fr](https://www.lelivrescolaire.fr/page/30674519) ;
+    - Explorer les fonctionnalités du logiciel [Obsidian](https://ericecmorlaix.github.io/adn-Tutoriel_Obsidian/){target="_blank"} ;
+    
+***
 ### Le 29/11
 
 === "CONTENU DE SÉANCE"
