@@ -19,10 +19,15 @@ docs_dir: docs
 nav: 
   - Accueil : index.md
   - Web : ./Web/index.md
+  - Réseaux Sociaux : ./RS/index.md
   - ENT :
-    - Check-list de compétences utiles en SNT : competences_SNT.md 
-    - Les Notebook Jupyter : notebook.md
     - GitHub+GitPod+VSC : github.md
+    - Obsidian : https://ericecmorlaix.github.io/adn-Tutoriel_Obsidian/
+    - Les Notebook Jupyter : notebook.md
+    - Check-list de compétences utiles en SNT : competences_SNT.md 
+    
+    
+    
   - Présentation NSI : http://si.lycee.ecmorlaix.fr/nsi
   
     # - Langages et Programmation :

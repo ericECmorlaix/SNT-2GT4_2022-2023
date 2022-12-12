@@ -1,8 +1,8 @@
 # Thème 1 : Le Web
 
+Le Web (toile) désigne un système donnant accès à un ensemble de données (page, image, son, vidéo) reliées par des liens hypertextes et accessibles sur le réseau Internet.
+
 ![building_websites](../images/undraw_building_websites_i78t.svg){ .center width=50%}
-
-
 
 
 ## Introduction au web
@@ -28,6 +28,8 @@ Suivre les leçons de la Khan Academy : [KhanAcademy, introduction à HTML/CSS](
 
 > - Pensez à enrichir vos codes avec vos explications personnelles.
 > - Transmettre votre notebook bilan personnel par mail.
+
+![static_website](../images/undraw_static_website_re_x70h.svg){ .center width=50%}
 
 ## Publier un site Web :
 
