@@ -97,6 +97,26 @@
 
 === "CONTENU DE SÉANCE"
     
+    - Remédiation technique sur les envois par mail des fichiers `note.md` avec images en PJ ;
+
+    - Poursuite du thème les réseaux sociaux :
+
+        - Finaliser vos [recherches](https://ericecmorlaix.github.io/SNT-2GT4_2022-2023/RS/#recherches) concernant le réseau social tiré au sort dans la liste en résumant les données collectées dans une note d'Obsidian ;
+        - Préparer un [diaporama dans Obsidian](https://ericecmorlaix.github.io/SNT-2GT4_2022-2023/RS/#presentation) support de votre présentation orale et le publier sur le web via GitHub...  
+   
+        
+=== "TRAVAIL À FAIRE"
+
+    - Lire le chapitre concernant les réseaux sociaux sur [www.lelivrescolaire.fr](https://www.lelivrescolaire.fr/page/30674519) ;
+    - Explorer les fonctionnalités du logiciel [Obsidian](https://ericecmorlaix.github.io/adn-Tutoriel_Obsidian/){target="_blank"} pour améliorer votre diaporama ;
+    - Finir tous les niveaux de [https://py-rates.fr/](https://py-rates.fr/){target="_blank"}
+    - [S'entrainer à Algoréa](https://algorea.org/#/preparation){target="_blank"}
+    
+***
+### Le 06/12
+
+=== "CONTENU DE SÉANCE"
+    
     - Découverte du logiciel [Obsidian](https://ericecmorlaix.github.io/adn-Tutoriel_Obsidian/){target="_blank"} -> ==récupération dans un coffre d'iCloud du fichier MarkDown de la [liste de réseaux sociaux](https://codimd.apps.education.fr/dgUvKX8xQJG0PYrV2CBp_Q){target="_blank"} mise à jour== ;
 
     - Poursuite du thème les réseaux sociaux -> ==Faire des recherches concernant le réseau social tiré au sort dans la liste et les résumer dans une note d'Obsidian== ;   
