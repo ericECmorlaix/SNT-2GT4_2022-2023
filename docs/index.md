@@ -112,7 +112,7 @@
     - [S'entrainer à Algoréa](https://algorea.org/#/preparation){target="_blank"}
 
 ***
-### Le 06/12
+### Le 13/12
 
 === "CONTENU DE SÉANCE"
     
