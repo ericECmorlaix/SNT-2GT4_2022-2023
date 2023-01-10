@@ -35,10 +35,11 @@ Pour un réseau social de la liste établie rechercher des données correspondan
 - entreprise qu'il le possède ;
 - catégorie et nombre d'utilisateurs actuels, popularité ;
 - traitement de données privées ;
-- modèle économique ;
-- concurrents ;
+- principe de recommandation ;
 - processus d'engagement ;
 - principaux influenceurs ;
+- modèle économique ;
+- concurrents ;
 - critiques, polémiques ; 
 
 > Réaliser une note au format MarkDown pour recueillir les informations trouvées...
@@ -54,12 +55,19 @@ Le chapitre concernant les réseaux sociaux sur [www.lelivrescolaire.fr](https:/
 
 ![social_dashboard](../images/undraw_social_thinking_re_y8cc.svg){align=left width=18%}![social_dashboard](../images/undraw_social_growth_re_tjy9.svg){ align=right width=22%}Préparer une présentation orale de votre réseau.
 
-> Réaliser un [diaporama support dans Obsidian](https://ericecmorlaix.github.io/adn-Tutoriel_Obsidian/6a-Exports/#diaporama){target="_blank"} et le publier sur le web via GitHub...
+> Réaliser un [diaporama support dans Obsidian](https://ericecmorlaix.github.io/adn-Tutoriel_Obsidian/6a-Exports/#diaporama){target="_blank"}, ajouter votre voix à cette présentation dans une capture vidéo de moins de 180 secondes puis partager la sur Stream dans Office365...
 <br>
 <br>
 <br>
 <br>
 <hr>
+
+## Mesure PIX
+
+Mesurer vos compétences dans le domaine des réseaux sociaux en suivant [le parcours `ZRSJAG289` sur PIX](https://app.pix.fr/campagnes/ZRSJAG289){target="_blank"} ;
+
+> Relever dans une note d'Obsidian, les notions pour lesquelles vous auriez besoin d'explications complémentaires...
+
 
 <!-- ## Bilan de connaissances associées
 
