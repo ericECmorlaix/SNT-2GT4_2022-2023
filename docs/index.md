@@ -93,7 +93,7 @@
 [mail]: mailto:eric.madec@ecmorlaix.fr "eric.madec@ecmorlaix.fr"
 
 ***
-### Le 10/01
+### Le 17/01
 
 === "CONTENU DE SÉANCE"
     
