@@ -99,6 +99,28 @@
     
     - Poursuite du thème les réseaux sociaux :
 
+        - Finaliser vos [recherches](https://ericecmorlaix.github.io/SNT-2GT4_2022-2023/RS/#recherches) concernant le réseau social tiré au sort dans la liste en résumant les données collectées dans une `note.md` d'Obsidian : ==**Vérifier** l'ensemble des items à traiter== ;
+        - Préparer un [diaporama dans Obsidian](https://ericecmorlaix.github.io/SNT-2GT4_2022-2023/RS/#presentation) support de votre présentation orale et produire une vidéo partagée sur Stream d'Office365...
+        - Mesurer vos compétences dans le domaine des réseaux sociaux en suivant [le parcours `ZRSJAG289` sur PIX](https://app.pix.fr/campagnes/ZRSJAG289){target="_blank"} ;
+        - => ==Transmettre par mail un dossier archive (compressé, zip) contenant votre `note.md`, votre `diaporama.md`, tous les fichiers d'images et d'autres éléments intégrés...) ;
+
+    - Synthèse programmation en Python de [https://py-rates.fr/](https://py-rates.fr/){target="_blank"} ;
+   
+        
+=== "TRAVAIL À FAIRE"
+
+    - Lire le chapitre concernant les réseaux sociaux sur [www.lelivrescolaire.fr](https://www.lelivrescolaire.fr/page/30674519) ;
+    - Explorer les fonctionnalités du logiciel [Obsidian](https://ericecmorlaix.github.io/adn-Tutoriel_Obsidian/){target="_blank"} pour améliorer votre diaporama ;
+    - Finir tous les niveaux de [https://py-rates.fr/](https://py-rates.fr/){target="_blank"}
+    - [S'entrainer à Algoréa](https://algorea.org/#/preparation){target="_blank"}
+
+***
+### Le 10/01
+
+=== "CONTENU DE SÉANCE"
+    
+    - Poursuite du thème les réseaux sociaux :
+
         - Finaliser vos [recherches](https://ericecmorlaix.github.io/SNT-2GT4_2022-2023/RS/#recherches) concernant le réseau social tiré au sort dans la liste en résumant les données collectées dans une note d'Obsidian : ==**Vérifier** l'ensemble des items à traiter== ;
         - Préparer un [diaporama dans Obsidian](https://ericecmorlaix.github.io/SNT-2GT4_2022-2023/RS/#presentation) support de votre présentation orale et produire une vidéo partagée sur Stream d'Office365...
         - Mesurer vos compétences dans le domaine des réseaux sociaux en suivant [le parcours `ZRSJAG289` sur PIX](https://app.pix.fr/campagnes/ZRSJAG289){target="_blank"} ;  
