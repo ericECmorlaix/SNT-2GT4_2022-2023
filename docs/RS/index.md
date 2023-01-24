@@ -111,8 +111,6 @@ Mesurer vos compétences dans le domaine des réseaux sociaux en suivant [le par
 
 #### Vocabulaire des graphes
 
-Copier/coller le code MarkDown suivant dans une nouvelle note de votre coffre d'Obsidian :
-
 ```md
 #flashcards
 
@@ -159,7 +157,7 @@ En quoi consiste l'expérience de Milgram...
 **...........................................**
 ```
 
-A partir de la vidéo ci-dessous et du [www.lelivrescolaire.fr](https://www.lelivrescolaire.fr/page/30674519){target="_blank"} compléter le texte entre les `**..........**`;
+A partir de la vidéo ci-dessous et du [www.lelivrescolaire.fr](https://www.lelivrescolaire.fr/page/30674519){target="_blank"} compléter le texte entre les `**..........**` dans le fichier `Flash-Les_Graphes.md` ;
 
 <center><iframe width="560" height="315" src="https://www.youtube.com/embed/nn1mIqW9oYQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 
@@ -171,6 +169,13 @@ A partir de la vidéo ci-dessous et du [www.lelivrescolaire.fr](https://www.leli
     - Calculer l’écartement de chacun de ses sommets ;
     - Déterminer son centre, son diamètre et son rayon.
 
+## Petit monde :
+
+Dans la vidéo ci-dessus, il est dit «Qu’en France, il ne faudrait que trois personnes pour relier tous nos concitoyens».
+
+Compléter la phrase suivante avec le terme de vocabulaire correct:
+
+`Si l’on modélise les relations de l’ensemble de la population française par un graphe, alors le **.........** du graphe est 3.`
 
 ### Vidéos de ressources complémentaires :
 
