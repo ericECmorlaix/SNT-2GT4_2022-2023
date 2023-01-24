@@ -50,6 +50,8 @@ Pour un réseau social de la liste établie rechercher des données correspondan
 
 Le chapitre concernant les réseaux sociaux sur [www.lelivrescolaire.fr](https://www.lelivrescolaire.fr/page/30674519){target="_blank"} ;
 
+<center><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/iwDh9C4q4og" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></center>
+
 
 ## Présentation
 
@@ -69,41 +71,119 @@ Mesurer vos compétences dans le domaine des réseaux sociaux en suivant [le par
 > Relever dans une note d'Obsidian, les notions pour lesquelles vous auriez besoin d'explications complémentaires...
 
 
-<!-- ## Bilan de connaissances associées
+## Connaissances associées
 
+### Graphes et petit monde
 
-
-### Graphes et théorie du petit monde
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nn1mIqW9oYQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2yVPoL8xVSI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-
-> Relever le vocabulaire des graphes afin de compléter le texte à trous suivant (copier/coller le code MarkDown et compléter entre les `** **`) :
-> ```md
-> 
->```
-
-> en quoi consiste l'expérience de Milgram.
-
-
-??? example "Application"
+???+ example "Application"
     
-    Alice, Batoul, Clara, Dilan, Éloïse, Fatah, Grégory et Hamza sont dans la même classe.
-
-    En dehors des cours, ils se voient régulièrement aux activités suivantes:
+    ???- info "Données :"
     
-    - Alice, Batoul, Clara, Dilan et Hamza font du judo ensemble;
-    - Clara, Dilan et Éloïse se voient au club robotique;
-    - Grégory et Hamza font partie du même groupe de musique;
-    - Grégory et Fatah se croisent souvent à la bibliothèque.
+        Alice, Batoul, Clara, Dilan, Éloïse, Fatah, Grégory et Hamza sont dans la même classe.
 
-    1. Placer les noms des huit élèves et relier entre eux chaque couple d'élèves qui se voit en dehors des cours.
-    2. Quels élèves voient beaucoup d'élèves en dehors des cours ? lesquels en voient peu ?
-    3. Pendant les vacances, je veux faire passer une information à ces huit élèves le plus rapidement possible. A quel élève dois-je m'adresser pour qu'il fasse passer l'information le plus vite possible ?
+        En dehors des cours, ils se voient régulièrement aux activités suivantes:
+        
+        - Alice, Batoul, Clara, Dilan et Hamza font du judo ensemble;
+        - Clara, Dilan et Éloïse se voient au club robotique;
+        - Grégory et Hamza font partie du même groupe de musique;
+        - Grégory et Fatah se croisent souvent à la bibliothèque.
 
+    ???- question "Questions :"
+
+        Sur papier, placer les noms des huit élèves et relier entre eux chaque couple d'élèves qui se voit en dehors des cours.
+        
+        Quels élèves voient beaucoup d'élèves en dehors des cours ?
+        ...
+
+        Lesquels en voient peu ?
+        ...
+        
+        Pendant les vacances, je veux faire passer une information à ces huit élèves le plus rapidement possible.  
+        A quel élève dois-je m'adresser pour qu'il fasse passer l'information le plus vite possible ?
+        ...
+
+    ???- tip "Carte mentale et vue graphique"
+
+        Télécharger puis décommpresser dans votre coffre d'Obsidian le fichier d'archive : [Application.zip](./Application.zip)
+        > - Observer en [MindMap](https://ericecmorlaix.github.io/adn-Tutoriel_Obsidian/5-Projets/#mind-map-basique){target=_blank} le fichier "Classe_relations" ;
+        > - Observer la [vue graphique](https://help.obsidian.md/Plugins/Graph+view){target=_blank} constituée par les fichiers du dossier "Graphe" en appliquant le filtre `path:/Graphe` ;
+
+
+#### Vocabulaire des graphes
+
+Copier/coller le code MarkDown suivant dans une nouvelle note de votre coffre d'Obsidian :
+
+```md
+#flashcards
+
+## Les graphes
+
+Un ==**graphe**== est un ensemble de ==**sommets**== pouvant être reliés entre eux par des ==**arêtes**==.
+
+
+### Exemples :
+
+- Pour représenter un réseau routier, les **..........** sont les **villes**, et les **..........** sont les **routes** entre ces **villes**.
+
+- Pour un graphe de réseau d’amis, les personnes sont représentés par les :: **..........**
+
+- Pour un graphe de réseau d’amis, les liens d’amitié sont représentés par les :: **..........**
+
+
+### Définitions :
+
+La **..........**
+??
+Le minimum d'arêtes pour connecter deux sommets.
+
+L'**..........** d'un sommet
+??
+La distance la plus grande qui existe entre un sommet et n'importe quel autre sommet du graphe.
+
+Le **..........** d'un graphe
+??
+Le plus grand écartement de ses sommets.
+
+Le **..........** d'un graphe
+??
+Le sommet qui a le plus petit écartement.
+
+Le **..........** d’un graphe
+??
+L’écartement de son centre ;
+C’est aussi le plus petit écartement de ses sommets.
+
+En quoi consiste l'expérience de Milgram...
+?
+**...........................................**
+**...........................................**
+```
+
+A partir de la vidéo ci-dessous et du [www.lelivrescolaire.fr](https://www.lelivrescolaire.fr/page/30674519){target="_blank"} compléter le texte entre les `**..........**`;
+
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/nn1mIqW9oYQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+
+
+???+ example "Application (suite)"
+
+    Pour le graphe d'application :
+
+    - Calculer l’écartement de chacun de ses sommets ;
+    - Déterminer son centre, son diamètre et son rayon.
+
+
+### Vidéos de ressources complémentaires :
+
+<center><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/gOiIQ0qGiCc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></center>
+
+
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/2yVPoL8xVSI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+
+
+<center><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/UX7YQ6m2r_o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></center>
+
+
+<!--
 
 ### Modèle économique
 
