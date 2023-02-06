@@ -106,7 +106,7 @@
         - Discuter de potentielles [dérives](https://ericecmorlaix.github.io/SNT-2GT4_2022-2023/RS/#derives){target="_blank"} ;
         - [Réviser en prévision d'une évaluation...](https://ericecmorlaix.github.io/SNT-2GT4_2022-2023/RS/#bilan){target="_blank"}.
 
-    - Synthèse programmation en Python de [https://py-rates.fr/](https://py-rates.fr/){target="_blank"} ;
+    - Programmation en Python avec [https://py-rates.fr/](https://py-rates.fr/){target="_blank"} et [https://e-nsi.forge.aeif.fr/init_python/](https://e-nsi.forge.aeif.fr/init_python/){target="_blank"} ;
    
         
 === "TRAVAIL À FAIRE"
