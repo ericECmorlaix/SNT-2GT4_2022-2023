@@ -169,7 +169,7 @@ A partir de la vidéo ci-dessous et du [www.lelivrescolaire.fr](https://www.leli
     - Calculer l’écartement de chacun de ses sommets ;
     - Déterminer son centre, son diamètre et son rayon.
 
-## Petit monde :
+### Petit monde :
 
 Dans la vidéo ci-dessus, il est dit «Qu’en France, il ne faudrait que trois personnes pour relier tous nos concitoyens».
 
@@ -187,6 +187,23 @@ Compléter la phrase suivante avec le terme de vocabulaire correct:
 
 <center><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/UX7YQ6m2r_o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></center>
 
+## Dérives
+
+### Cyberviolences
+
+- Que relate [cet article du Monde](https://www.lemonde.fr/societe/article/2023/01/13/la-chanteuse-hoshi-denonce-la-campagne-de-cyberharcelement-homophobe-et-misogyne-qu-elle-subit-depuis-trois-ans_6157753_3224.html){target="_blank"} ?
+- Que sont les **C.G.U.** ?
+- Est-ce qu'il existe une législation spécifique (cf. [www.lelivrescolaire.fr](https://www.lelivrescolaire.fr/page/30675058){target="_blank"}) ?
+
+### Lister d'autres dérives...
+
+- 
+- 
+- 
+
+## Bilan
+
+[Le cours](https://www.lelivrescolaire.fr/page/30675140){target="_blank"} et [l'essentiel](https://www.lelivrescolaire.fr/page/30674743){target="_blank"} à savoir...
 
 <!--
 
