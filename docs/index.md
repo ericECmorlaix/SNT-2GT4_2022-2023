@@ -102,7 +102,7 @@
         - Finaliser vos [recherches](https://ericecmorlaix.github.io/SNT-2GT4_2022-2023/RS/#recherches) concernant le réseau social tiré au sort dans la liste en résumant les données collectées dans une `note.md` d'Obsidian : ==**Vérifier** l'ensemble des items à traiter== ;
         - Préparer un [diaporama dans Obsidian](https://ericecmorlaix.github.io/SNT-2GT4_2022-2023/RS/#presentation) support de votre présentation orale et produire une vidéo partagée sur Stream d'Office365...
         - Mesurer vos compétences dans le domaine des réseaux sociaux en suivant [le parcours `ZRSJAG289` sur PIX](https://app.pix.fr/campagnes/ZRSJAG289){target="_blank"} ;
-        - => ==Transmettre par mail un dossier archive (compressé, zip) contenant votre `note.md`, votre `diaporama.md`, tous les fichiers d'images et d'autres éléments intégrés...) et partager votre vidéo sur Stream dans Office365== ;
+        - => ==Transmettre par mail un lien vers votre vidéo partagée sur Stream dans Office365 et un dossier archive (compressé, zip) contenant votre `note.md`, votre `diaporama.md`, tous les fichiers d'images et d'autres éléments intégrés...)== ;
         - Discuter de potentielles [dérives](https://ericecmorlaix.github.io/SNT-2GT4_2022-2023/RS/#derives){target="_blank"} ;
         - [Réviser en prévision d'une évaluation...](https://ericecmorlaix.github.io/SNT-2GT4_2022-2023/RS/#bilan){target="_blank"}.
 
