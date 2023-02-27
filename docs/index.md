@@ -93,6 +93,22 @@
 [mail]: mailto:eric.madec@ecmorlaix.fr "eric.madec@ecmorlaix.fr"
 
 ***
+## Le 28/02
+
+=== "CONTENU DE SÉANCE"
+
+    - **Participer** aux [activités d'escape game pour l'accueil des troisièmes](https://ericecmorlaix.github.io/accueil_3/){target=_blank} ;
+
+    - **Découvrir** la manipulation de données sur [la plateforme France-IOI](https://concours.castor-informatique.fr/){target=_blank} avec les codes :
+        - `7vi35usa` pour l'activité n°1 ;
+        - `hk3uggux` pour l'activité n°2 ; 
+        - `wvs3ewgc` pour l'activité n°3 ; 
+
+=== "TRAVAIL À FAIRE"
+
+    - **Faire** la [mise à jour d'Obsidian pour découvrir les canvas](https://ericecmorlaix.github.io/adn-Tutoriel_Obsidian/7-Options_Plugins/#canvas){target=_blank} ;
+
+***
 ### Le 07/02
 
 === "CONTENU DE SÉANCE"
