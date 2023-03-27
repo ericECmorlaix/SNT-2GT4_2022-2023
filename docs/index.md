@@ -93,22 +93,41 @@
 [mail]: mailto:eric.madec@ecmorlaix.fr "eric.madec@ecmorlaix.fr"
 
 ***
-## Le 07/02
+
+**A LIRE :**
+
+- [ChatGPT : « Non, le métier de développeur informatique n’est pas mort ! ](https://www.nouvelobs.com/opinions/20230321.OBS71149/chatgpt-non-le-metier-de-developpeur-informatique-n-est-pas-mort.html){target=_blank}
+
+ - [Sortir de sa zone de confort pour apprendre afin de se réaliser](https://static.wixstatic.com/media/557f79_7cbdd28074e84e4882ec9314f46d5fb0~mv2.jpeg/v1/fill/w_1024,h_768,al_c,q_90/557f79_7cbdd28074e84e4882ec9314f46d5fb0~mv2.webp){target=_blank} ;
+     <!-- source : <https://www.jeromefrugere.com/post/pourquoi-dit-on-qu-il-faut-se-faire-violence-pour-sortir-de-sa-zone-de-confort> -->
+
+***
+## Le 28/03
 
 === "CONTENU DE SÉANCE"
 
-     - [Sortir de sa zone de confort pour apprendre afin de se réaliser](https://static.wixstatic.com/media/557f79_7cbdd28074e84e4882ec9314f46d5fb0~mv2.jpeg/v1/fill/w_1024,h_768,al_c,q_90/557f79_7cbdd28074e84e4882ec9314f46d5fb0~mv2.webp){target=_blank} ;
-     <!-- source : <https://www.jeromefrugere.com/post/pourquoi-dit-on-qu-il-faut-se-faire-violence-pour-sortir-de-sa-zone-de-confort> -->
+    - **Découvrir** la [représentation binaire des données](./DS/#notion-de-binaire) ;
 
-    - **Découvrir** la manipulation de données sur [la plateforme France-IOI](https://concours.castor-informatique.fr/){target=_blank} avec les codes :
-        - `7vi35usa` pour l'activité n°1 ;
-        - `hk3uggux` pour l'activité n°2 ; 
-        - `wvs3ewgc` pour l'activité n°3 ; 
+    - **Poursuivre** les [expériences de traitement de données](./DS/#experiences-de-traitement) ; 
 
 === "TRAVAIL À FAIRE"
 
     - **Faire** la [mise à jour d'Obsidian pour découvrir les canvas](https://ericecmorlaix.github.io/adn-Tutoriel_Obsidian/7-Options_Plugins/#canvas){target=_blank} ;
 
+## Les 07 et 14/03
+
+=== "CONTENU DE SÉANCE"
+
+    - **Découvrir** la manipulation de données sur [la plateforme France-IOI](https://concours.castor-informatique.fr/){target=_blank} avec les codes :
+        - `7vi35usa` pour l'activité n°1 ;
+        - `hk3uggux` pour l'activité n°2 ; 
+        - `wvs3ewgc` pour l'activité n°3 ;
+
+    - Correction du contrôle commun ;
+
+=== "TRAVAIL À FAIRE"
+
+    - **Faire** la [mise à jour d'Obsidian pour découvrir les canvas](https://ericecmorlaix.github.io/adn-Tutoriel_Obsidian/7-Options_Plugins/#canvas){target=_blank} ;
 
 ***
 ## Le 28/02

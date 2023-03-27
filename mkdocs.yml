@@ -20,6 +20,7 @@ nav:
   - Accueil : index.md
   - Web : ./Web/index.md
   - Réseaux Sociaux : ./RS/index.md
+  - Données structurées : ./DS/index.md
   - ENT :
     - GitHub+GitPod+VSC : github.md
     - Obsidian : https://ericecmorlaix.github.io/adn-Tutoriel_Obsidian/
