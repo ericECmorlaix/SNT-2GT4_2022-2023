@@ -85,16 +85,18 @@ Quelque soit la donnée, un ordinateur ne dispose que des chiffres `0` et `1` po
         === "Question 1"
             Existe-t-il un nombre qui peut être représenté de deux façons différentes avec les cartes ?
         === "Réponse 1"
-            
+            NON
         ***
         === "Question 2"
             Peut-on afficher n'importe quel entier ?
         === "Réponse 2"
+            NON, de 0 à ...
 
         ***
         === "Question 3"
             Quel est le maximum ?
         === "Réponse 3"
+            31
 
         ***
 
@@ -111,21 +113,25 @@ Quelque soit la donnée, un ordinateur ne dispose que des chiffres `0` et `1` po
         === "Question 1"
             Quel nombre est représenté par le mot **``01001``** ?
         === "Réponse 1"
+            9
 
         ***
         === "Question 2"
             Quel nombre est représenté par le mot  **``00000``** ? 
         === "Réponse 2"
+            0
 
         ***
         === "Question 3"
             Quel nombre est représenté par le mot  **``11111``** ?
         === "Réponse 3"
+            15
 
         ***
         === "Question 4"
             Comment écrit-on **$17$** en binaire ?  
         === "Réponse 4"
+            10001
 
         ***
         > *Etc… entraînez vous avec vos voisins à convertir différents nombres entiers dans le sens décimal => binaire  et  binaire => décimal...*
