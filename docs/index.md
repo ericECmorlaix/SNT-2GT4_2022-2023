@@ -102,6 +102,19 @@
      <!-- source : <https://www.jeromefrugere.com/post/pourquoi-dit-on-qu-il-faut-se-faire-violence-pour-sortir-de-sa-zone-de-confort> -->
 
 ***
+## Le 04/04
+
+=== "CONTENU DE SÉANCE"
+
+    - **Interrogation orale** sur la première partie des [expériences de traitement de données](./DS/#experiences-de-traitement) ;
+    - **Mesurer** vos compétences dans le domaine des données structurées en suivant [le parcours `XXMJHZ354` sur PIX](https://app.pix.fr/campagnes/XXMJHZ354){target="_blank"} ;  
+
+=== "TRAVAIL À FAIRE"
+
+    - **Finir** les [expériences de traitement de données](./DS/#experiences-de-traitement) ;
+    - **Faire** la [mise à jour d'Obsidian pour découvrir les canvas](https://ericecmorlaix.github.io/adn-Tutoriel_Obsidian/7-Options_Plugins/#canvas){target=_blank} ;
+
+***
 ## Le 28/03
 
 === "CONTENU DE SÉANCE"
