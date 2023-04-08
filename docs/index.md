@@ -96,6 +96,9 @@
 
 **A LIRE :**
 
+- [Travailler PYTHON en prépa ECG](https://www.prepaplus.tv/blog/50/Travailler-python-en-prepa-ECG){target=_blank}, [LA LICENCE MIASHS
+Mathématiques et informatiques appliquées aux sciences humaines et sociales](https://www.onisep.fr/Choisir-mes-etudes/apres-le-bac/principaux-domaines-d-etudes/les-licences-de-sciences/la-licence-miashs){target=_blank} ;
+
 - [ChatGPT : « Non, le métier de développeur informatique n’est pas mort ! ](https://www.nouvelobs.com/opinions/20230321.OBS71149/chatgpt-non-le-metier-de-developpeur-informatique-n-est-pas-mort.html){target=_blank}
 
  - [Sortir de sa zone de confort pour apprendre afin de se réaliser](https://static.wixstatic.com/media/557f79_7cbdd28074e84e4882ec9314f46d5fb0~mv2.jpeg/v1/fill/w_1024,h_768,al_c,q_90/557f79_7cbdd28074e84e4882ec9314f46d5fb0~mv2.webp){target=_blank} ;
