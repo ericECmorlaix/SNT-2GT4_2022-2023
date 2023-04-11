@@ -105,7 +105,7 @@ Mathématiques et informatiques appliquées aux sciences humaines et sociales](h
      <!-- source : <https://www.jeromefrugere.com/post/pourquoi-dit-on-qu-il-faut-se-faire-violence-pour-sortir-de-sa-zone-de-confort> -->
 
 ***
-## Le 04/04
+## Les 04 et 11/04
 
 === "CONTENU DE SÉANCE"
 

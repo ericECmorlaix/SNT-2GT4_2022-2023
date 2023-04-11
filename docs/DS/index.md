@@ -21,6 +21,109 @@ Les structurer correctement garantit que l’on puisse les exploiter facilement 
 
 OU sur la nouvelle mouture de la plateforme : [Les données structurées et leur traitement](https://parcours.algorea.org/contents/4707-4701-1067253748629066205-653650670442840123/){target=_blank}
 
+<!-- 
+???- success "Solutions"
+
+    === "n°3_1 - Les régions et leur capitale"
+
+        ```python
+        from database import *
+        table_regions = loadTable("regions")
+        displayTable(table_regions)
+        ```
+
+    === "n°3_2 - Les grandes villes"
+
+        ```python
+        from database import *
+        table_grandes_villes = loadTable("grandes_villes")
+        displayTableOnMap(table_grandes_villes,"ville","longitude","latitude")
+        ```
+    
+    === "n°3_3 - Les fleuves"
+
+        ```python
+        from database import *
+        table_fleuves = loadTable("fleuves")
+        displayTable(table_fleuves)
+        table_fleuves_avec_ordre = sortByColumn(table_fleuves,"fleuve","asc")
+        displayTable(table_fleuves_avec_ordre)
+        ```
+
+    === "n°3_4 - La région Grand-Est"
+
+        ```python
+        from database import *
+        table_departements = loadTable("departements")
+        displayTable(table_departements)
+        table_departements_du_Grand_Est = selectByColumn(table_departements, "region" , "Grand-Est")
+        displayTable(table_departements_du_Grand_Est)
+        ```
+
+    === "n°3_5 - Les villes du Pas-de-Calais"
+
+        ```python
+        from database import *
+        table_villes = loadTable("villes")
+        displayTable(table_villes)
+        table_villes_du_Pas_de_Calais = selectByColumn(table_villes, "departement", "Pas-de-Calais")
+        displayTable(table_villes_du_Pas_de_Calais)
+        displayTableOnMap(table_villes_du_Pas_de_Calais,"ville","longitude","latitude")
+        ```
+
+    === "n°3_6 - Les habitants des Hauts-de-Seine"
+
+        ```python
+        from database import *
+        table_villes = loadTable("villes")
+        displayTable(table_villes)
+        table_villes_Hauts_de_Seine = selectByColumn(table_villes, "departement", "Hauts-de-Seine")
+        displayTable(table_villes_Hauts_de_Seine)
+        table_villes_Hauts_de_Seine_avec_seulement_deux_colonnes_ville_et_nb_habitants = selectColumns(table_villes_Hauts_de_Seine,["ville","nb_habitants"])
+        displayTable(table_villes_Hauts_de_Seine_avec_seulement_deux_colonnes_ville_et_nb_habitants)
+        ```
+    
+    === "n°3_7 - Les départements de Nouvelle-Aquitaine"
+
+        ```python
+        from database import *
+        table_departements = loadTable("departements")
+        displayTable(table_departements)
+        table_departements_Nouvelle_Aquitaine = selectByColumn(table_departements, "region", "Nouvelle-Aquitaine")
+        displayTable(table_departements_Nouvelle_Aquitaine)
+        table_departements_nb_habitants_Nouvelle_Aquitaine = selectColumns(table_departements_Nouvelle_Aquitaine,["departement","nb_habitants"])
+        displayTable(table_departements_nb_habitants_Nouvelle_Aquitaine)
+        table_departements_nb_habitants_Nouvelle_Aquitaine_avec_tri = sortByColumn(table_departements_nb_habitants_Nouvelle_Aquitaine,"nb_habitants","desc")
+        displayTable(table_departements_nb_habitants_Nouvelle_Aquitaine_avec_tri)
+        ```
+    
+    === "n°3_8 - Les villes de Bretagne"
+
+        ```python
+        from database import *
+        table_departements = loadTable("departements")
+        table_villes = loadTable("villes")
+        table_departements_bretons = selectByColumn(table_departements, "region", "Bretagne")
+        table_villes_bretonnes  = joinTables(table_villes, "departement", table_departements_bretons, "departement", "inner")
+        displayTable(table_villes_bretonnes)
+        displayTableOnMap(table_villes_bretonnes,"table1_ville","table1_longitude","table1_latitude")
+        ```
+        
+    === "n°3_9 - Les capitales de région"
+
+        ```python
+        from database import *
+        table_regions = loadTable("regions")
+        table_villes = loadTable("villes")
+        table_regions_et_villes = joinTables(table_regions, "capitale", table_villes, "ville", "inner")
+        displayTable(table_regions_et_villes)
+        table_regions_et_villes_avec_tri_sur_capitale = sortByColumn(table_regions_et_villes,"table1_capitale","asc")
+        displayTable(table_regions_et_villes_avec_tri_sur_capitale)
+        table_capitales_regions= selectColumns(table_regions_et_villes_avec_tri_sur_capitale,("table1_capitale","table1_region","table2_departement","table2_nb_habitants"))
+        displayTable(table_capitales_regions)
+        ```
+ -->
+
 ???- abstract "Notions et vocabulaire à retenir"
 
     - Une **collection** est un ensemble d’**objets** (concrets ou abstraits) dont on collecte des **données**, partageant les mêmes **descripteurs**.
@@ -168,3 +271,7 @@ Quelque soit la donnée, un ordinateur ne dispose que des chiffres `0` et `1` po
 
 > Lister dans un [mail], les notions pour lesquelles vous auriez besoin d'explications complémentaires...
 
+
+## Bilan
+
+[Le cours sur www.lelivrescolaire.fr](https://www.lelivrescolaire.fr/page/31098375){target="_blank"}...
