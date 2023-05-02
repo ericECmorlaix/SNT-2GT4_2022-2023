@@ -105,11 +105,39 @@ Mathématiques et informatiques appliquées aux sciences humaines et sociales](h
      <!-- source : <https://www.jeromefrugere.com/post/pourquoi-dit-on-qu-il-faut-se-faire-violence-pour-sortir-de-sa-zone-de-confort> -->
 
 ***
-## Les 04 et 11/04
+## Le 02/05
 
 === "CONTENU DE SÉANCE"
 
-    - **Interrogation orale** sur la première partie des [expériences de traitement de données](./DS/#experiences-de-traitement) ;
+    - **Fin des interrogations orales** sur les [expériences de traitement de données](./DS/#experiences-de-traitement) ;
+    - **Mesurer** vos compétences dans le domaine des données structurées en suivant [le parcours `XXMJHZ354` sur PIX](https://app.pix.fr/campagnes/XXMJHZ354){target="_blank"} ;
+    - **Commencer** les activités de découverte concernant [la photographie numérique](https://parcours.algorea.org/contents/4707-4702-1067253748629066205-1625996270397195025-1089626022569595539/){target=_blank}  
+
+=== "TRAVAIL À FAIRE"
+
+    - **Se préparer** pour une évaluation par QCM sur les [expériences de traitement de données](./DS/#experiences-de-traitement) ;
+   
+
+***
+## Le 11/04
+
+=== "CONTENU DE SÉANCE"
+
+    - Intervention en visio d'une étudiante en école de commerce pour présenter sa pratique de la programmation Python pour réaliser des requètes dans des tables de données ;
+    - **Interrogations orales** sur la troisième partie des [expériences de traitement de données](./DS/#experiences-de-traitement) ;
+    - **Mesurer** vos compétences dans le domaine des données structurées en suivant [le parcours `XXMJHZ354` sur PIX](https://app.pix.fr/campagnes/XXMJHZ354){target="_blank"} ;  
+
+=== "TRAVAIL À FAIRE"
+
+    - **Finir** les [expériences de traitement de données](./DS/#experiences-de-traitement) ;
+    - **Faire** la [mise à jour d'Obsidian pour découvrir les canvas](https://ericecmorlaix.github.io/adn-Tutoriel_Obsidian/7-Options_Plugins/#canvas){target=_blank} ;
+
+***
+## Le 04/04
+
+=== "CONTENU DE SÉANCE"
+
+    - **Interrogations orales** sur la première partie des [expériences de traitement de données](./DS/#experiences-de-traitement) ;
     - **Mesurer** vos compétences dans le domaine des données structurées en suivant [le parcours `XXMJHZ354` sur PIX](https://app.pix.fr/campagnes/XXMJHZ354){target="_blank"} ;  
 
 === "TRAVAIL À FAIRE"

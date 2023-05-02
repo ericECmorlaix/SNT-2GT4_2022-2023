@@ -21,7 +21,7 @@ Les structurer correctement garantit que l’on puisse les exploiter facilement 
 
 OU sur la nouvelle mouture de la plateforme : [Les données structurées et leur traitement](https://parcours.algorea.org/contents/4707-4701-1067253748629066205-653650670442840123/){target=_blank}
 
-<!-- 
+ 
 ???- success "Solutions"
 
     === "n°3_1 - Les régions et leur capitale"
@@ -59,7 +59,7 @@ OU sur la nouvelle mouture de la plateforme : [Les données structurées et leur
         table_departements_du_Grand_Est = selectByColumn(table_departements, "region" , "Grand-Est")
         displayTable(table_departements_du_Grand_Est)
         ```
-
+<!--
     === "n°3_5 - Les villes du Pas-de-Calais"
 
         ```python
@@ -96,7 +96,7 @@ OU sur la nouvelle mouture de la plateforme : [Les données structurées et leur
         table_departements_nb_habitants_Nouvelle_Aquitaine_avec_tri = sortByColumn(table_departements_nb_habitants_Nouvelle_Aquitaine,"nb_habitants","desc")
         displayTable(table_departements_nb_habitants_Nouvelle_Aquitaine_avec_tri)
         ```
-    
+ -->    
     === "n°3_8 - Les villes de Bretagne"
 
         ```python
@@ -122,7 +122,7 @@ OU sur la nouvelle mouture de la plateforme : [Les données structurées et leur
         table_capitales_regions= selectColumns(table_regions_et_villes_avec_tri_sur_capitale,("table1_capitale","table1_region","table2_departement","table2_nb_habitants"))
         displayTable(table_capitales_regions)
         ```
- -->
+
 
 ???- abstract "Notions et vocabulaire à retenir"
 
@@ -146,7 +146,6 @@ OU sur la nouvelle mouture de la plateforme : [Les données structurées et leur
     - Les opérations de traitement consistent à **filtrer** selon un critère ou une combinaison de critères (OU, ET, NON), **trier** pour réordonner les **objets** dans la **table**, **calculer**...
     - Structurer les **données** sur plusieurs **tables** permet d'éviter les redondances et de ne mettre à jour qu'une seule fois chaque **valeur** en cas de changement.
     - En croisant (**fusionnant**) deux **tables** ayant un **descripteur** commun (une **jointure**), on peut générer des informations nouvelles...
-
 
 
 
