@@ -59,7 +59,7 @@ OU sur la nouvelle mouture de la plateforme : [Les données structurées et leur
         table_departements_du_Grand_Est = selectByColumn(table_departements, "region" , "Grand-Est")
         displayTable(table_departements_du_Grand_Est)
         ```
-<!--
+
     === "n°3_5 - Les villes du Pas-de-Calais"
 
         ```python
@@ -96,7 +96,7 @@ OU sur la nouvelle mouture de la plateforme : [Les données structurées et leur
         table_departements_nb_habitants_Nouvelle_Aquitaine_avec_tri = sortByColumn(table_departements_nb_habitants_Nouvelle_Aquitaine,"nb_habitants","desc")
         displayTable(table_departements_nb_habitants_Nouvelle_Aquitaine_avec_tri)
         ```
- -->    
+     
     === "n°3_8 - Les villes de Bretagne"
 
         ```python
