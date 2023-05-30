@@ -105,6 +105,39 @@ Mathématiques et informatiques appliquées aux sciences humaines et sociales](h
      <!-- source : <https://www.jeromefrugere.com/post/pourquoi-dit-on-qu-il-faut-se-faire-violence-pour-sortir-de-sa-zone-de-confort> -->
 
 ***
+## Le 30/05
+
+=== "CONTENU DE SÉANCE"
+
+    - **Découvrir** l'[Intelligence Artificielle avec vittascience](https://fr.vittascience.com/ia/){target=_blank} : [entrainer une machine à reconnaitre des images](https://fr.vittascience.com/ia/images.php?mode=mixed){target=_blank}    
+    
+    <center>
+    <figure><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/EDtvcOl_PhA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+    <figcation>Tutoriel Entraînement IA</figcation>
+    </figure>
+    </center>
+
+=== "TRAVAIL À FAIRE"
+
+    - **Poursuivre** les activités de découverte concernant [la photographie numérique](https://parcours.algorea.org/contents/4707-4702-1067253748629066205-1625996270397195025-1089626022569595539/){target=_blank}
+   
+
+
+***
+## Le 09/05
+
+=== "CONTENU DE SÉANCE"
+
+    - Evaluation par QCM sur les [expériences de traitement de données](./DS/#experiences-de-traitement) ;
+    - **Poursuivre** les activités de découverte concernant [la photographie numérique](https://parcours.algorea.org/contents/4707-4702-1067253748629066205-1625996270397195025-1089626022569595539/){target=_blank}  
+
+=== "TRAVAIL À FAIRE"
+
+    - **Poursuivre** les activités de découverte concernant [la photographie numérique](https://parcours.algorea.org/contents/4707-4702-1067253748629066205-1625996270397195025-1089626022569595539/){target=_blank}
+   
+
+
+***
 ## Le 02/05
 
 === "CONTENU DE SÉANCE"
