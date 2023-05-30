@@ -109,7 +109,7 @@ Mathématiques et informatiques appliquées aux sciences humaines et sociales](h
 
 === "CONTENU DE SÉANCE"
 
-    - **Découvrir** l'[Intelligence Artificielle avec vittascience](https://fr.vittascience.com/ia/){target=_blank} : [entrainer une machine à reconnaitre des images](https://fr.vittascience.com/ia/images.php?mode=mixed){target=_blank}    
+    - **Découvrir** l'[Intelligence Artificielle avec vittascience](https://fr.vittascience.com/ia/){target=_blank} : [**entrainer** une machine à reconnaitre des images](https://fr.vittascience.com/ia/images.php?mode=mixed){target=_blank}    
     
     <center>
     <figure><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/EDtvcOl_PhA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>

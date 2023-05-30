@@ -12,3 +12,8 @@ Comment sont représentées ces images sur un ordinateur et comment les traiter 
 <center><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/UnNPNc-F9ks" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></center>
 
 [Activités de découverte sur la plateforme France-IOI](https://parcours.algorea.org/contents/4707-4702-1067253748629066205-1625996270397195025-1089626022569595539/){target=_blank} :
+
+
+## Intelligence Artificielle
+
+**Découvrir** l'[Intelligence Artificielle avec vittascience](https://fr.vittascience.com/ia/){target=_blank} : [**entrainer** une machine à reconnaitre des images](https://fr.vittascience.com/ia/images.php?mode=mixed){target=_blank}
