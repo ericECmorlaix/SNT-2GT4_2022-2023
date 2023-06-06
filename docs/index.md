@@ -105,6 +105,21 @@ Mathématiques et informatiques appliquées aux sciences humaines et sociales](h
      <!-- source : <https://www.jeromefrugere.com/post/pourquoi-dit-on-qu-il-faut-se-faire-violence-pour-sortir-de-sa-zone-de-confort> -->
 
 ***
+## Le 06/06
+
+=== "CONTENU DE SÉANCE"
+
+    - [ChatGPT ? Voulez-vous comprendre ce que c’est ?](https://www.lemonde.fr/blog/binaire/2023/05/12/chatgpt-voulez-vous-comprendre-ce-que-cest/){target=_blank} 
+
+    - **Finir** tous les niveaux de [Pyrates](https://py-rates.fr/){target=_blank}
+    
+
+=== "TRAVAIL À FAIRE"
+
+    - ==**Bonnes vavances...**==   
+
+
+***
 ## Le 30/05
 
 === "CONTENU DE SÉANCE"
